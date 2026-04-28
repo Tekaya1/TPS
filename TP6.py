@@ -2,7 +2,6 @@
 TP06 — Tatouage Numerique par Patchwork
 ========================================
 Auteur : Implementation pour ING-4-SSIRF
-Cours  : Biometrie & Tatouage (Hamdi Chebbi)
 
 Ce script implemente :
  - PARTIE 1 : Patchwork sur image en niveaux de gris
